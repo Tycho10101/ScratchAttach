@@ -1,6 +1,5 @@
 # sets up dependencies
 import scratchattach as scratch3
-from dotenv import load_dotenv
 import os
 
 # sets up secret values
