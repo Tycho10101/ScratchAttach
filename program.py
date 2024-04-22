@@ -4,8 +4,6 @@ from dotenv import load_dotenv
 import os
 
 # sets up secret values
-load_dotenv()
-
 username = os.getenv("username")
 password = os.getenv("password")
 projectID = os.getenv("projectID")
